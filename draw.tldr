@@ -50,9 +50,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 237.99915455033465,
-			"y": 523.3234403804543,
-			"lastActivityTimestamp": 1732501866237,
+			"x": 253.12515502722533,
+			"y": 82.77314652217012,
+			"lastActivityTimestamp": 1732502104450,
 			"meta": {}
 		},
 		{
@@ -62,7 +62,7 @@
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "cross",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -103,7 +103,9 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [],
+			"selectedShapeIds": [
+				"shape:bVjF3QqvTDtu9tL86Qe76"
+			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -114,9 +116,9 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 181.00084544966535,
-			"y": -203.32344038045426,
-			"z": 1,
+			"x": 382.3296375511311,
+			"y": 316.9122000465488,
+			"z": 0.8907006550433844,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -6804,6 +6806,29 @@
 			},
 			"parentId": "page:page",
 			"index": "axCJF",
+			"typeName": "shape"
+		},
+		{
+			"x": 108.29535247844805,
+			"y": 102.50460674744821,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:bVjF3QqvTDtu9tL86Qe76",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 178.4547598213281,
+				"text": "Commit more commit Ophen",
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": false,
+				"scale": 1.7625557163107748
+			},
+			"parentId": "page:page",
+			"index": "ay4BZ",
 			"typeName": "shape"
 		}
 	]
